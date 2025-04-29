@@ -1,21 +1,32 @@
-# 👋 Hi there! I'm Matthew
+<!-- Add Banner here -->
 
-I'm an **aspiring Front-End Engineer** with a passion for building engaging, intuitive, and performant user experiences. While I focus on front-end development, I bring a unique edge with **hands-on experience in cloud infrastructure** and **backend programming**.
-
----
-
-## 💡 What I Do
-
-- 🎨 **Front-End Development**: HTML, CSS, JavaScript, React (learning more every day!)
-- ☁️ **Cloud Platforms**: AWS, Google Cloud Platform (GCP), Microsoft Azure
-- 🧠 **Programming Languages**: JavaScript, Python, Java, Google Apps Script
-- 🔧 **Tools & Technologies**:
-  - Git & GitHub
-  - REST APIs
-  - CI/CD basics
-  - DevOps concepts
+# Matthew Waddell
+I'm from the United States. I'm an **aspiring Front-End Engineer** with a passion for building engaging, intuitive, and performant user experiences. I currently work in a help desk role for a local buisness. While my goal is focused on front-end development, I bring a unique edge with **hands-on experience** in **cloud infrastructure**, **backend programming**, **Scripting**, **Networking** and **End User Support**.
 
 ---
+
+## Skills and Experience 
+. 🐍 Python
+
+. 🌐 HTML,CSS, JS
+
+. 📜 Powershell, Scripting
+
+. 👨‍💻 GAM
+
+<a href="https://aws.amazon.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" width="40" />
+</a>
+<a href="https://cloud.google.com" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="40" width="40" />
+</a>
+<a href="https://azure.microsoft.com/en-in/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="40" width="40" />
+</a>
+<a href="https://zapier.com" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" height="40" width="40" />
+</a>
+
 
 ## 🚀 What I'm Learning Now
 
@@ -31,7 +42,6 @@ I'm an **aspiring Front-End Engineer** with a passion for building engaging, int
 - Land my first full-time Front-End Engineer role
 - Build and deploy at least 5 real-world projects
 - Contribute to open-source front-end libraries
-- Earn a cloud certification (e.g., AWS Developer or Azure Fundamentals)
 
 ---
 
@@ -45,7 +55,6 @@ I'm an **aspiring Front-End Engineer** with a passion for building engaging, int
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/matthew-waddell-606a48225/)
-- [Portfolio Website](https://yourwebsite.com)
 - Email: mwadde0163@gmail.com
 
 ---
