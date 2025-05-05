@@ -1,7 +1,7 @@
 <!-- Add Banner here -->
 
 # Matthew Waddell
-I'm from the United States. I'm an **aspiring Front-End Engineer** with a passion for building engaging, intuitive, and performant user experiences. I currently work in a help desk role for a local buisness. While my goal is focused on front-end development, I bring a unique edge with **hands-on experience** in **cloud infrastructure**, **backend programming**, **Scripting**, **Networking** and **End User Support**.
+I'm from the United States. I'm an **aspiring Full-Stack Engineer** with a passion for building engaging, intuitive, and performant user experiences. I currently work in a help desk role for a local buisness. While my goal is focused on full-stack development, I bring a unique edge with **hands-on experience** in **cloud infrastructure**, **backend programming**, **Scripting**, **Networking** and **End User Support**.
 
 ---
 
@@ -39,7 +39,7 @@ I'm from the United States. I'm an **aspiring Front-End Engineer** with a passio
 
 ## 📌 Goals for 2025
 
-- Land my first full-time Front-End Engineer role
+- Land my first full-time Full-Stack Engineer role
 - Build and deploy at least 5 real-world projects
 - Contribute to open-source front-end libraries
 
